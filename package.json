@@ -1,0 +1,21 @@
+{
+  "name": "hyprwings-website",
+  "version": "1.0.0",
+  "description": "Premium digital solutions website for HyprWings",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 3000",
+    "serve": "python3 -m http.server 8080",
+    "dev": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "website",
+    "discord-bots",
+    "web-development",
+    "mobile-apps",
+    "glassmorphism",
+    "modern-ui"
+  ],
+  "author": "HyprWings Team",
+  "license": "Private"
+}
